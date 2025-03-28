@@ -10,6 +10,7 @@
 - Activity level on a 1-10 scale
 - Time of day on a 0-24 scale. It is on a scale of 24 hours due to 24 hours in a day.
 - Genre preferences (pop, rock, country, hip hop, r&b, classical, etc.)
+- Data Set of 20-30 songs, maybe Top Songs of 2024 
 ## Project Goals 
 - Train a neural network to predict music genres based on user inputs
 - Use different architectures such as fully connected layers
